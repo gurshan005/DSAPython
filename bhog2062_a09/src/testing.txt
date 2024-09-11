@@ -1,0 +1,42 @@
+"""
+------------------------------------------------------------------------
+[CP164]
+------------------------------------------------------------------------
+Author: gurshan Bhogal
+ID:     169052062
+Email:  bhog2062@mylaurier.ca
+__updated__ = "2024-01-11"
+------------------------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+Using array-based list Hash_Set
+
+Total Comparisons: 3,080,896
+Word with maximum comparisons 'the': 41,044
+-------------------------------------------------------
+t02
+Using array-based Sorted list Hash_Set
+
+Total Comparisons: 2,502,459
+Word with maximum comparisons 'the': 43,560
+-------------------------------------------------------
+t03
+Using linked BST Hash_Set
+
+Total Comparisons: 3,341,199
+Word with maximum comparisons 'the': 121,957
+-------------------------------------------------------
+t04
+# of nodes with no children: 1
+
+# of nodes with one child: 4
+
+# of nodes with two children: 0
+
+Testing for __contains__ 6: True
+
+Parent Node for 6: 3
+
+Parent Node for 6(recursive): 3
+-------------------------------------------------------
